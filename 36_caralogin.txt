@@ -1,0 +1,8 @@
+Cara Login Hotel
+Admin
+Username : admin
+Password : admin
+
+Resepsionis
+Username : resepsionis
+Password : resepsionis
